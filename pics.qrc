@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/black road.jpg</file>
+        <file>images/blue plate.jfif</file>
+        <file>images/green plate.jfif</file>
+        <file>images/laser red.jfif</file>
+        <file>images/laserr.jfif</file>
+        <file>images/plate.jfif</file>
+        <file>images/road bad.png</file>
+        <file>images/road.jpg</file>
+        <file>images/unnamed.png</file>
+        <file>images/vertlaser.jpg</file>
+    </qresource>
+</RCC>
